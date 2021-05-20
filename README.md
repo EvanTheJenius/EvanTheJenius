@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all of the things
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on web design
-- 📫 How to reach me 
+- 📫 How to reach me EvanTheJenius#4110 on discord
 
 <!---
 EvanTheJenius/EvanTheJenius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
